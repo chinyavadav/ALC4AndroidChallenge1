@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_b">About ALC</string>
+    <string name="title_activity_c">My Profile</string>
+    <string name="welcome">Welcome to ALC</string>
+    <string name="fullname">Victor Chinyavada</string>
+    <string name="track_android">Track: Android</string>
+    <string name="country_zimbabwe">Country: Zimbabwe</string>
+    <string name="email_chinyavadav_gmail_com">Email: chinyavadav@gmail.com</string>
+    <string name="phone_number_263783135087">Phone Number: +263783135087</string>
+    <string name="slack_username_chinyavadav">Slack Username: @chinyavadav</string>
+</resources>
